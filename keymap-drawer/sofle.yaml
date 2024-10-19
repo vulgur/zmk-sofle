@@ -58,7 +58,7 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:keyboard-space$$
-  - EQUA
+  - {t: '=', s: +}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - layer1
   - {t: '$$mdi:keyboard-return$$', type: enter}
